@@ -14,7 +14,7 @@ Types of Statistics:
 
 1)Measure of central tendency [Mean, Median and Mode]
 
-2)Measire of disperson[Variation, Standard deviation, Z-Score]
+2)Measure of disperson[Variation, Standard deviation, Z-Score]
 
 3)Different type of distribution of data
 Eg:Histogram,pdf,pmf,Guassian distribution, Log normal distribution, 
@@ -62,11 +62,9 @@ Eg:Types of sampling technique
 Types of Data:
 
 1.Quantitative - It is a numerial data
-Descrete= +ve w inhole number eg"1.Number of children family. Number of accounts in banks, No of bikes, 
+Descrete= +ve whole number eg"1.Number of children family. Number of accounts in banks, No of bikes, 
 Number of people working
 continous- Any value Average of rainfall , population of country, length of river and house price in banglore
-
-+
 
 
 2.Qualitative -It is categorical data
