@@ -1,0 +1,81 @@
+Statistics:
+
+Defenition: Stats is the science of collecting , organizing and analysing data.
+
+Data: "facts or pieces of information"
+
+Eg:-Height of student in classroom
+    Number of sales in term of revenue of a company
+    Salary of people in society
+    IQ of students in classroom
+
+Types of Statistics:
+1)Descriptive stats - It consists of organizing , summarizing and visualizing data. 
+
+1)Measure of central tendency [Mean, Median and Mode]
+
+2)Measire of disperson[Variation, Standard deviation, Z-Score]
+
+3)Different type of distribution of data
+Eg:Histogram,pdf,pmf,Guassian distribution, Log normal distribution, 
+Expoential, Binomial,Bernoulli distribution, Poisson
+
+Box plot,violent plot,Hist plot,Distribution plot
+EDA-Exploratory data analytics
+
+2)Inferential stats:
+Definition: It consists of using data you have measured to form conclusion. 
+
+z-test
+t-test
+chi square test
+anova test
+hyphothesis 
+pvalue
+significant values 
+
+Eg: let say there are 10 cricket camps in banglore and you have collected the hight of cricketes from one 
+camp
+Heights are recorded
+
+Descriptive querstion from above queries:
+
+what is the average height of the entire class rool?
+Distribtion of data
+140 cm how many std deviation it is away from mean-zscore
+
+Infenrential question from above queries:
+At the average hight of the player of camp1 similar to that camp2
+
+Sample data--derived--->population data
+
+
+Population and Sample Data:
+					
+Population(N) is a group or a superset of data that you are intersted in studying.
+
+Sample(n)- A sample is a subset of population data
+Eg: Exit poll
+
+Eg:Types of sampling technique
+
+Types of Data:
+
+1.Quantitative - It is a numerial data
+Descrete= +ve w inhole number eg"1.Number of children family. Number of accounts in banks, No of bikes, 
+Number of people working
+continous- Any value Average of rainfall , population of country, length of river and house price in banglore
+
++
+
+
+2.Qualitative -It is categorical data
+Nominal-  No ranks , Eg Gender M,F, Blood group, colors , countries,location, cities, days and pincode
+Ordinal- customer feedback => {1,2,3,4,5}
+
+Example:
+1)Length of different rivers in the world
+2)Favorite food band on Gender 
+3)Marital status
+4. IQ measurments
+5. Weekdays for IT employees
