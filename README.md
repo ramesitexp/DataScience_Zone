@@ -5,107 +5,79 @@ This repository serves as a **central hub** for multiple projects in **Natural L
 Each sub-project is maintained in its own repository but documented here for easy reference.
 
 ---
+# 📊 DataScience Zone  
 
-## 📂 1. NLP_DataScience
-🔗 [NLP_DataScience Repository](https://github.com/ramesitexp/NLP_DataScience)
-
-### 📌 Overview
-This project contains **NLP concepts, implementations, and real-world use cases**. It covers text processing, feature extraction, embeddings, and model building with classical ML and deep learning methods.
-
-### 🔑 Key Features
-- Text preprocessing (tokenization, stemming, lemmatization, stopword removal).  
-- Feature extraction (Bag of Words, TF-IDF, Word2Vec, BERT embeddings).  
-- NLP tasks: Sentiment Analysis, Topic Modeling, Text Classification.  
-- Implementation of classical ML models (Naive Bayes, SVM) and deep learning (RNN, LSTM, Transformers).  
-- Exploratory Data Analysis (EDA) with visualization.  
-
-### 📊 Example Use Cases
-- Spam/Ham classification.  
-- Sentiment analysis for product reviews.  
-- Document similarity search.  
-
-### ⚙️ Tech Stack
-- Python  
-- Scikit-learn  
-- NLTK / SpaCy  
-- TensorFlow / PyTorch  
-- Matplotlib / Seaborn  
+Welcome to **DataScience_Zone**, a learning hub for **Data Science, Machine Learning, NLP, and Statistics**.  
+This repository is designed with **hands-on notebooks, practical examples, and reusable templates** to guide learners and practitioners from basics to advanced concepts.  
 
 ---
 
-## 📂 2. GenAI_Usecase
-🔗 [GenAI_Usecase Repository](https://github.com/ramesitexp/genai_usecase)
-
-### 📌 Overview
-This repository focuses on **Generative AI (GenAI)** applications and experiments, showcasing real-world scenarios where GenAI can be applied in business, productivity, and innovation.
-
-### 🔑 Key Features
-- Prompt engineering and fine-tuning strategies.  
-- Use cases for text summarization, Q&A systems, and conversational agents.  
-- Integration with LangChain for chaining multiple AI tasks.  
-- Example notebooks for experimenting with LLMs.  
-- Exploration of **Responsible AI & Ethical AI** usage.  
-
-### 📊 Example Use Cases
-- Automated customer support chatbots.  
-- Document summarization & knowledge extraction.  
-- Business intelligence Q&A agents.  
-- Code generation and documentation assistance.  
-
-### ⚙️ Tech Stack
-- Python  
-- OpenAI API / Hugging Face Transformers  
-- LangChain  
-- Streamlit (for quick app demos)  
-- Pandas & Visualization tools  
+## 🚀 Overview
+The repository is structured into multiple learning modules and projects:
+- 📘 **Python & Statistics tutorials**  
+- 🔎 **Exploratory Data Analysis (EDA)**  
+- 📊 **Regression & ML Models**  
+- 🧩 **Feature Engineering & Data Cleaning**  
+- 🗣 **Natural Language Processing (NLP)**  
 
 ---
 
-## 📂 3. DataScience_Zone
-🔗 [DataScience_Zone Repository](https://github.com/ramesitexp/DataScience_Zone)
+## 📂 Repository Structure
 
-### 📌 Overview
-This repository acts as a **comprehensive Data Science knowledge base** — containing reusable templates, tutorials, and practical projects.
-
-### 🔑 Key Features
-- Data preprocessing techniques.  
-- Exploratory Data Analysis (EDA).  
-- Feature engineering and feature selection methods.  
-- Machine Learning models (Regression, Classification, Clustering).  
-- Model evaluation and performance optimization.  
-- Real-world project templates for faster prototyping.  
-
-### 📊 Example Use Cases
-- Predictive modeling for structured datasets.  
-- Fraud detection with classification algorithms.  
-- Customer segmentation using clustering.  
-- Time series forecasting.  
-
-### ⚙️ Tech Stack
-- Python  
-- Scikit-learn  
-- Pandas / NumPy  
-- Matplotlib / Seaborn  
-- Jupyter Notebooks  
+### 1️⃣ Python & Statistics Tutorials
+- `DataScience_PythonDay1.ipynb` → Python basics for data science.  
+- `datascience_python_day2.ipynb` → Python intermediate concepts.  
+- `datascience_python_day6.ipynb`, `datascience_python_day9.ipynb` → Advanced Python modules.  
+- `Numpy.ipynb` → Deep dive into NumPy arrays & operations.  
+- `python_module.ipynb` → Working with Python modules.  
+- `Statistics.py.ipynb`, `Statistics_notes.txt` → Core statistics concepts for data science.  
 
 ---
 
-## 🌟 How to Use This Repository
-1. Navigate to the respective project folder (or linked repo).  
-2. Open Jupyter notebooks for hands-on exploration.  
-3. Install dependencies as listed in each repo’s `requirements.txt`.  
-4. Run examples to understand the workflow end-to-end.  
+### 2️⃣ Exploratory Data Analysis (EDA)
+- `EDA_Student_Performance.ipynb` → Analyzing student performance datasets.  
+- `EDA_TitanicDataset.ipynb` → Classic Titanic dataset survival analysis.  
+- `Heart_stroke_analysis.ipynb` → Health-related dataset exploration.  
 
 ---
 
-## 🤝 Contributing
-Contributions are welcome! Please fork the repo, create a feature branch, and submit a pull request.  
+### 3️⃣ Regression & Predictive Modeling
+- `Linear_Regression_day2.ipynb`, `Continuous_LinearRegression_Day01.ipynb` → Foundations of regression.  
+- `RidgeLassoElasticNet.ipynb` → Regularization techniques.  
+- `Practical of all the regression.ipynb` → Side-by-side comparison of regression models.  
+- `multilinearregression.ipynb` → Multi-variable regression modeling.  
+- `Gaming_regression.ipynb` → Gaming dataset case study.  
+- `RealEstate_ML.ipynb` → Real estate price prediction.  
+- `BMWSalesDatasetMachineLearning.ipynb` → Sales prediction modeling.  
 
 ---
 
-## 📬 Contact
-For queries, collaborations, or feedback:  
-**Author:** Ramesh Kumar  
-📧 [Your Email / LinkedIn if you want to add]  
+### 4️⃣ Machine Learning & Data Handling
+- `SupportVectorMachine.ipynb` → SVM implementation.  
+- `Outliers_Removal.ipynb` → Outlier detection & treatment techniques.  
+- `FeatureEngineering.ipynb` → Feature extraction & selection.  
+- `data_cleaning_part1.ipynb` → Data preprocessing workflows.  
 
 ---
+
+### 5️⃣ Natural Language Processing (NLP)
+- `NLP/` → Contains NLP-related projects.  
+- `NLP_Learning/` → Learning materials & code snippets for NLP basics.  
+
+---
+
+## ⚙️ Tech Stack
+- **Python** 🐍  
+- **Libraries**: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn  
+- **Jupyter Notebooks** for interactive learning  
+
+---
+
+## 🏁 Getting Started
+
+### 🔧 Installation
+Clone the repository and install dependencies:  
+```bash
+git clone https://github.com/ramesitexp/DataScience_Zone.git
+cd DataScience_Zone
+pip install -r requirements.txt
